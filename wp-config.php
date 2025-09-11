@@ -1,5 +1,5 @@
 <?php
-define( 'DB_NAME', 'test' ); // Replace with your database name
+define( 'DB_NAME', 'wordpressdb' ); // Replace with your database name
 define( 'DB_USER', 'admin' ); // Replace with your RDS username
 define( 'DB_PASSWORD', 'chettiyar9769' ); // Replace with your RDS password
 define( 'DB_HOST','database-2.cnomsegu6u1v.us-east-1.rds.amazonaws.com' ); // RDS endpoint
