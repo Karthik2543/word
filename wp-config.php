@@ -1,8 +1,8 @@
 <?php
-define( 'DB_NAME', 'wordpress-db' ); // Replace with your database name
+define( 'DB_NAME', 'wordpress' ); // Replace with your database name
 define( 'DB_USER', 'admin' ); // Replace with your RDS username
 define( 'DB_PASSWORD', 'Bitcot$2543' ); // Replace with your RDS password
-define( 'DB_HOST','wordpress-db.cduw2kik48va.us-east-1.rds.amazonaws.com' ); // RDS endpoint
+define( 'DB_HOST','wordpress.cj4288koob3d.us-east-1.rds.amazonaws.com' ); // RDS endpoint
 
 // WordPress Database Table prefix
 $table_prefix = 'wp_';
