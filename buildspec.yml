@@ -2,7 +2,7 @@ version: 0.2
 env:
   variables:
     AWS_DEFAULT_REGION: "us-east-1"
-    REPOSITORY_URI: "590183964913.dkr.ecr.us-east-1.amazonaws.com/wordpress-app:latest"
+    REPOSITORY_URI: "898861418477.dkr.ecr.us-east-1.amazonaws.com/wordpress-repo:latest"
 phases:
   pre_build:
     commands:
